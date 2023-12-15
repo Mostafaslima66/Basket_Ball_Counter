@@ -5,4 +5,4 @@ This is a simple basketball counter app developed using Flutter. The app allows 
 - **Score Buttons** **:** Three buttons for each team to add 1, 2, or 3 points.
 - **Show Result Button** **:** Displays a dialog indicating the winning team or declares a draw.
 - **Reset Button** **:** Resets the scores for both teams.
-https://github.com/Mostafaslima66/Basket_Ball_Counter/assets/150176123/ec29dc18-ba40-495b-9786-69c03f4390ef
+!(https://github.com/Mostafaslima66/Basket_Ball_Counter/assets/150176123/ec29dc18-ba40-495b-9786-69c03f4390ef)
